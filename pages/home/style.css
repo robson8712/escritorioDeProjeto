@@ -1,0 +1,250 @@
+/* 
+
+
+  font-family: "Ibarra Real Nova", serif;
+  font-family: "Public Sans", sans-serif; */
+
+body {
+  max-width: 100%;
+  padding: 64px 165px 0px 57px;
+  background: #fafafa;
+}
+
+.nav-superior {
+  display: inline-flex;
+  justify-content: baseline;
+  align-items: center;
+}
+
+.home-01 {
+  color: #5fb4a2;
+  padding: 43px 14px;
+  margin-left: 771px;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.portf-01 {
+  color: #33323d;
+  padding: 83px 14px;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+.contato-01 {
+  color: #33323d;
+  padding: 68px 14px;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.setas-dark {
+  margin-left: 165px;
+}
+
+.container-01 {
+  width: 1218px;
+  height: 798px;
+  display: flex;
+}
+
+.background-01 {
+  background-image: url("/assets/home/image-homepage-hero.jpg");
+  background-size: 1110px;
+  background-repeat: no-repeat;
+  margin-left: 165px;
+}
+.card-01 {
+  width: 445px;
+  height: 357px;
+  margin-top: 243px;
+  background-color: white;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.card-01 h1 {
+  color: #33323d;
+  width: 390px;
+  margin-top: 56px;
+  margin-left: 27px;
+  font-size: 50px;
+  line-height: 50px;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.nav-centro {
+  display: flex;
+}
+.btn1-card-01 {
+  background-color: #203a4c;
+  color: #ffffff;
+  padding: 17px 34px 17px 34px;
+  margin-right: 245px;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.arrow-card-01 {
+  background-color: #000000;
+  padding: 18px 16px;
+}
+
+.card-02 {
+  justify-content: left;
+}
+.card-02 h1 {
+  color: #33323d;
+  width: 430px;
+  margin-left: 680px;
+  font-size: 40px;
+  line-height: 42px;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.card-02 p {
+  color: #33323d;
+  width: 430px;
+  margin-left: 680px;
+  margin-bottom: 24px;
+  font-size: 16px;
+  line-height: 30px;
+  font-family: "Public Sans", sans-serif;
+}
+
+.card-02-icones {
+  display: flex;
+  justify-content: baseline;
+  align-items: baseline;
+}
+
+h2 {
+  color: #33323d;
+  width: 367px;
+  margin-top: 151px;
+  font-size: 40px;
+  line-height: 42px;
+  font-family: "Ibarra Real Nova", serif;
+}
+.btn1-card-02 {
+  color: #33323d;
+  border: 1px solid;
+  margin-left: 793px;
+  padding: 17px 28px;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.btn2-card-02 {
+  color: #33323d;
+  padding: 17px 50px;
+  margin-left: 575px;
+  margin-top: 215px;
+  margin-bottom: 168px;
+  border: 1px solid #33323d;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+.background-02 {
+  background-image: url("/assets/home/image-homepage-profile.jpg");
+  background-repeat: no-repeat;
+  background-size: 540px;
+  margin-left: 165px;
+}
+
+footer {
+  background-color: #33323d;
+  width: 1440px;
+  height: 80px;
+}
+
+.nav-inferior {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.logo-light {
+  margin-top: 24px;
+  margin-left: 165px;
+  margin-bottom: 29.88px;
+  margin-right: 77.65px;
+}
+
+.btn-inferior-01 {
+  margin-top: 33px;
+  margin-left: 48.92px;
+  margin-bottom: 33px;
+  margin-right: 42px;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.btn-inferior-02 {
+  margin-top: 33px;
+  margin-bottom: 33px;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.btn-inferior-03 {
+  margin-top: 33px;
+  margin-left: 43px;
+  margin-bottom: 33px;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+}
+
+.icones {
+  display: flex;
+  align-items: top;
+  justify-content: right;
+}
+
+.github-light {
+  margin-top: 28px;
+  margin-left: 618px;
+  margin-bottom: 28px;
+  margin-right: 15px;
+}
+
+.twitter-light {
+  margin-top: 30.25px;
+  margin-right: 16px;
+  margin-bottom: 30.25px;
+}
+
+.linkedin-light {
+  margin-right: 165px;
+}
